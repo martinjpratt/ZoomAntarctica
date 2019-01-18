@@ -1,0 +1,2 @@
+C:\Users\Peter\Desktop\Final Draft\ModelExplorer\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Peter\Desktop\Final Draft\ModelExplorer\App\ZoomAntarctica\ZoomAntarctica.csproj;x86

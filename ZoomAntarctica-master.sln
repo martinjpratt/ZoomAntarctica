@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoomAntarctica-master", "ZoomAntarctica-master.csproj", "{5B7D7410-C5EF-975E-8B8F-0AA7BD4B44B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoomAntarctica-master.Editor", "ZoomAntarctica-master.Editor.csproj", "{94CB50DA-CD5C-E1AC-225C-384C6EDDB59A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7D7410-C5EF-975E-8B8F-0AA7BD4B44B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7D7410-C5EF-975E-8B8F-0AA7BD4B44B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7D7410-C5EF-975E-8B8F-0AA7BD4B44B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7D7410-C5EF-975E-8B8F-0AA7BD4B44B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CB50DA-CD5C-E1AC-225C-384C6EDDB59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CB50DA-CD5C-E1AC-225C-384C6EDDB59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CB50DA-CD5C-E1AC-225C-384C6EDDB59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CB50DA-CD5C-E1AC-225C-384C6EDDB59A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
