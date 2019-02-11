@@ -42,7 +42,7 @@ namespace HoloToolkit.Unity.InputModule
         /// </summary>
         private float mTimer = 0;
 
-        private bool mHasHover = false;
+        public bool mHasHover = false;
         private bool mHasHand = false;
         private bool mIsDown = false;
         private Vector3 mBaseScale = new Vector3(1, 1, 1);

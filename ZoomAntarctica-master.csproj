@@ -958,13 +958,20 @@
     <Compile Include="Assets\HoloToolkit-Gesture-211\Utilities\Scripts\SimpleTagalong.cs" />
     <Compile Include="Assets\HoloToolkit-Gesture-211\Utilities\Scripts\Singleton.cs" />
     <Compile Include="Assets\Scripts\AstronautManager.cs" />
+    <Compile Include="Assets\Scripts\CreateFlightPaths.cs" />
+    <Compile Include="Assets\Scripts\DeleteLidar.cs" />
     <Compile Include="Assets\Scripts\DismissOnSelect.cs" />
+    <Compile Include="Assets\Scripts\DrawCircle.cs" />
     <Compile Include="Assets\Scripts\ExpandModel.cs" />
     <Compile Include="Assets\Scripts\GestureAction.cs" />
+    <Compile Include="Assets\Scripts\GoToLiDAR.cs" />
+    <Compile Include="Assets\Scripts\HideIfCursorHovering.cs" />
     <Compile Include="Assets\Scripts\Interactible.cs" />
     <Compile Include="Assets\Scripts\InteractibleAction.cs" />
     <Compile Include="Assets\Scripts\InteractibleManager.cs" />
+    <Compile Include="Assets\Scripts\LidarSelector.cs" />
     <Compile Include="Assets\Scripts\ModelSwitcher.cs" />
+    <Compile Include="Assets\Scripts\PlaceRadarQuad.cs" />
     <Compile Include="Assets\Scripts\VerticalExaggerator.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -1039,6 +1046,8 @@
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandard.shader" />
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandardInput.cginc" />
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFVertexLitCommon.cginc" />
+    <None Include="Assets\Resources\LineStartEndPoints.txt" />
+    <None Include="Assets\Resources\Materials\3DTextShader.shader" />
     <None Include="Assets\Resources\Shaders\SpecularHighlight.shader" />
     <None Include="Assets\Resources\Shaders\StandardFastBackFaceCulling.shader" />
     <None Include="Assets\Resources\Shaders\UITransparent.shader" />
