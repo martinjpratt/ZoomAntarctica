@@ -1,7 +1,23 @@
 # ZoomAntartica
-A Hololens app made to visualize Antarctic data for the Lamont-Doherty Earth Observatory. It is heavily based on the examples provided in the [Hololens Academy](https://developer.microsoft.com/en-us/windows/mixed-reality/academy), specifically [211](https://developer.microsoft.com/en-us/windows/mixed-reality/holograms_211) and [212](https://developer.microsoft.com/en-us/windows/mixed-reality/holograms_212). 
+A Hololens app made to visualize Antarctic data for the Lamont-Doherty Earth Observatory.
 
-## Demo
+![alt text](https://github.com/martinjpratt/ZoomAntarctica/blob/master/Repo/ZoomAnt4.png)
+
+
+
+![alt text](https://github.com/martinjpratt/ZoomAntarctica/blob/master/Repo/ZoomAnt1.png)
+
+
+
+![alt text](https://github.com/martinjpratt/ZoomAntarctica/blob/master/Repo/ZoomAnt2.png)
+
+
+
+![alt text](https://github.com/martinjpratt/ZoomAntarctica/blob/master/Repo/ZoomAnt3.png)
+
+
+
+## Demo (previous version by LDEO intern, Peter Richards)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-eU0WwuZE
 " target="_blank"><img src="http://img.youtube.com/vi/xx-eU0WwuZE/0.jpg" 
@@ -11,7 +27,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Unity | Visual Studio 2017
 --- | ---
-`2017.2.0f3` | `15.3.5` |
+`2017.4.2f2` | `15.8.9` |
 
 
 
