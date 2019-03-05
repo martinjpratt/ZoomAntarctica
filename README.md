@@ -19,7 +19,7 @@ This example of a LiDAR surface can also be vertically exaggerated to highlight 
 
 ## Demo
 
-[linkname](https://www.youtube.com/embed/VhDaVfjHbcs)
+[![ZoomAntarcticaDemo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/VhDaVfjHbcs)
 
 ## Development Environment
 
