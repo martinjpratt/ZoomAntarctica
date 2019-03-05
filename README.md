@@ -17,9 +17,9 @@ Tie-line T1060 contains a number of selectable boxes that allows the user to bri
 
 This example of a LiDAR surface can also be vertically exaggerated to highlight surface features such as narrow crevasses and wider rifts.
 
-## Demo (previous version by LDEO intern, Peter Richards)
+## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VhDaVfjHbcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/VhDaVfjHbcs)
 
 ## Development Environment
 
