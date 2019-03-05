@@ -19,9 +19,7 @@ This example of a LiDAR surface can also be vertically exaggerated to highlight 
 
 ## Demo (previous version by LDEO intern, Peter Richards)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=xx-eU0WwuZE
-" target="_blank"><img src="http://img.youtube.com/vi/xx-eU0WwuZE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VhDaVfjHbcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Development Environment
 
