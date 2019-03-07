@@ -87,8 +87,8 @@ Material:
     - _EnvironmentColorIntensity: 0.5
     - _EnvironmentColorThreshold: 1.5
     - _EnvironmentColoring: 0
-    - _FadeBeginDistance: 0.17
-    - _FadeCompleteDistance: 0.01
+    - _FadeBeginDistance: 0.75
+    - _FadeCompleteDistance: 0.5
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1

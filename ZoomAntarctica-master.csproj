@@ -960,6 +960,7 @@
     <Compile Include="Assets\Scripts\AstronautManager.cs" />
     <Compile Include="Assets\Scripts\CreateFlightPaths.cs" />
     <Compile Include="Assets\Scripts\CreateLidarScale.cs" />
+    <Compile Include="Assets\Scripts\CreatePickLine.cs" />
     <Compile Include="Assets\Scripts\DeleteLidar.cs" />
     <Compile Include="Assets\Scripts\DismissOnSelect.cs" />
     <Compile Include="Assets\Scripts\DrawCircle.cs" />
@@ -1049,6 +1050,8 @@
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandard.shader" />
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFStandardInput.cginc" />
     <None Include="Assets\HoloToolkit\Utilities\Scripts\GLTF\Shaders\GLTFVertexLitCommon.cginc" />
+    <None Include="Assets\PickedHorizons\RS01_T1060_20151202_204245_level1a_SIR_805-833_StitchedPicks.txt" />
+    <None Include="Assets\PickedHorizons\RS02_L590_20161124_230836_level1a_SIR_125-157_StitchedPicks.txt" />
     <None Include="Assets\Resources\LineStartEndPoints.txt" />
     <None Include="Assets\Resources\Materials\3DTextShader.shader" />
     <None Include="Assets\Resources\Shaders\SpecularHighlight.shader" />
