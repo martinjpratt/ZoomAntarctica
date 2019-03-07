@@ -21,6 +21,18 @@ This example of a LiDAR surface can also be vertically exaggerated to highlight 
 
 [![ZoomAntarcticaDemo](https://github.com/martinjpratt/ZoomAntarctica/blob/master/Repo/VideoZADemo.PNG)](https://youtu.be/VhDaVfjHbcs)
 
+## Running ZoomAntarctica
+
+The app is not yet available on the Microsoft Store, and the demo is not yet complete so hold tight on an appx file! To run this application:
+  1. Download or Clone this repository
+  2. Delete the 'App' folder
+  3. In Unity, build the project again making a new 'App' folder
+  4. Open the new VS solution in VS17
+  5. Set 'Solution Configuration' to 'Release'; 'Solution Platform' to 'x86'; select 'Device' from the dropdown menu next to Solution 
+     Platform'
+  6. Connect the HoloLens through USB
+  7. Hit F5 to debug, or Ctrl+F5 to build and deploy without debugging
+
 ## Development Environment
 
 Unity | Visual Studio 2017
