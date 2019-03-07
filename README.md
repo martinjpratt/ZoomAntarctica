@@ -28,7 +28,7 @@ The app is not yet available on the Microsoft Store, and the demo is not yet com
   2. Delete the 'App' folder
   3. In Unity, build the project again making a new 'App' folder
   4. Open the new VS solution in VS17
-  5. Set 'Solution Configuration' to 'Release'; 'Solution Platform' to 'x86'; select 'Device' from the dropdown menu next to Solution 
+  5. Set 'Solution Configuration' to 'Release'; 'Solution Platform' to 'x86'; select 'Device' from the dropdown menu next to 'Solution 
      Platform'
   6. Connect the HoloLens through USB
   7. Hit F5 to debug, or Ctrl+F5 to build and deploy without debugging
